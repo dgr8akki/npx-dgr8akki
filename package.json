@@ -1,15 +1,12 @@
 {
-  "name": "dgr8akki",
+  "name": "@dgr8akki/dgr8akki",
   "version": "1.0.0",
   "description": "This is the portfolio of Aakash Pahuja",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dgr8akki/npx-dgr8akki.git"
-  },
+  "repository": "https://github.com/dgr8akki/npx-dgr8akki.git",
   "bin": {
     "dgr8akki": "./index.js"
   },
@@ -23,6 +20,9 @@
     "url": "https://github.com/dgr8akki/npx-dgr8akki/issues"
   },
   "homepage": "https://github.com/dgr8akki/npx-dgr8akki#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "got": "^11.5.0",
