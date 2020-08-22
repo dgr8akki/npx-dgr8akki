@@ -9,7 +9,7 @@ const chalk = require("chalk"),
   open = require("open"),
   resume = require("./resume.json"),
   IMG_LINK = "https://avatars0.githubusercontent.com/u/17708157?s=600&v=4",
-  response = chalk.yellow,
+  { yellow } = chalk,
   options = {
     type: "list",
     name: "resumeOptions",
@@ -73,7 +73,7 @@ function handleResume() {
     .prompt(options)
     .then((answer) => {
       if (answer.resumeOptions == "See you!") {
-        console.log(response("Thank you for your time!"));
+        console.log(yellow("Thank you for your time!"));
         return;
       }
       console.log(JSON.stringify(answer));
@@ -83,11 +83,11 @@ function handleResume() {
         const option = resume[`${answer.resumeOptions}`];
 
         if (option) {
-          console.log(response(new inquirer.Separator()));
+          console.log(yellow(new inquirer.Separator()));
           option.forEach((info) => {
-            console.log(response("|   => " + info));
+            console.log(yellow("|   => " + info));
           });
-          console.log(response(new inquirer.Separator()));
+          console.log(yellow(new inquirer.Separator()));
         }
       }
 
@@ -102,7 +102,7 @@ function handleResume() {
           if (choice.exitBack == "Back") {
             handleResume();
           } else {
-            console.log(response("Thank you for your time!"));
+            console.log(yellow("Thank you for your time!"));
             return;
           }
         });
