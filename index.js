@@ -18,7 +18,7 @@ const chalk = require("chalk"),
   };
 
 async function showResume() {
-  console.log("Hi there 👋  my name's Aakash and welcome to my resume");
+  console.log("Hi there 👋  my name's Aakash and welcome to my resume !!!");
   await showImage();
 }
 
