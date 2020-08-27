@@ -108,7 +108,6 @@ function handleResume() {
         });
     })
     .catch((err) => console.log("Ooops,", err));
-  // handleLinks();
 }
 
 showResume();
