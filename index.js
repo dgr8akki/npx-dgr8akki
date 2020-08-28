@@ -110,8 +110,6 @@ function handleResume() {
     .catch((err) => console.log("Ooops,", err));
 }
 
-showResume();
-
 function handleLinks() {
   inquirer
     .prompt([
@@ -148,3 +146,5 @@ function handleLinks() {
     })
     .catch(function () {});
 }
+
+showResume();
