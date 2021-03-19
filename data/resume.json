@@ -1,0 +1,93 @@
+{
+  "Education 📚": [
+    {
+      "city": "Ambala, IN",
+      "school": "Maharishi Markandeshwar University",
+      "duration": "Fall 2013 – May 2017",
+      "info": [
+        "Bachelor of Technology in <b>Computer Science</b> as a major with 8.9 CGPA."
+      ]
+    }
+  ],
+  "Past Experience 🧪": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "KONY INDIA PVT. LTD, HYDERABAD",
+      "duration": "May 2019 – Now",
+      "data": [
+        {
+          "info": "Worked on <b>App Factory (Kony’s CI/CD tool).</b>",
+          "responsibilities": [
+            "Develop plugins for App Factory (Jenkins) for <b>Continuous Integration (CI/CD)</b> in groovy to help in nightly builds and smooth releases.",
+            "Add support for Git Clone in the custom pipeline with SSH and Custom git hosts in Jenkins with help of DSL and Groovy."
+          ]
+        },
+        {
+          "info": "Worked on <b>Kony Marketplace Platform.</b>",
+          "responsibilities": [
+            "Setup and managed server with 99.95% uptime. Use GIT and AWS to cutoff release time by 20%.",
+            "Successfully managing Bi-weekly release in different environments.",
+            "Owned and Orchestrated the complete designing and development of <b>Code Analyzer</b> and <b>Code Coverage Engine</b> for React JS, which checks for the amount of code covered in the current pull request and helps in increased product quality.",
+            "Integrate <b>Amazon’s Elastic Search</b> in place of default database lookup which cut-off API’s response time by 75% and also cut-off website load time."
+          ]
+        }
+      ]
+    },
+    {
+      "position": "Software Development Engineer",
+      "company": "KONY INDIA PVT. LTD, HYDERABAD",
+      "duration": "Aug 2017 – May 2019",
+      "data": [
+        {
+          "info": "Worked on <b>Kony Marketplace Platform</b> (<a href='https://marketplace.kony.com' target='_blank'>https://marketplace.kony.com</a>).",
+          "responsibilities": [
+            "Owned and Orchestrated the complete High-level Design and Architecture of Marketplace with optimized performance and Google Page Insight score of 95.",
+            "Develop Pixel-perfect front-end part of Marketplace platform using React, Redux, and Next.js for server side rendering for better SEO results and increased customer base.",
+            "Also, Enhance the marketplace platform by providing support of Private groups which enables the customers to view and share components only within their organization with high security.",
+            "Owned and Orchestrated the complete designing and development of <b>Automation Testing Engine</b> in java which provides a daily report for Website and APIs tests status which resulted in increased customer base and enrich product quality."
+          ]
+        }
+      ]
+    },
+    {
+      "position": "Associate Software Engineer",
+      "company": "KONY INDIA PVT. LTD, HYDERABAD",
+      "duration": "Aug 2016 – Aug 2017",
+      "data": [
+        {
+          "info": "Worked on <b>Kony Web portals</b> (<a href='https://www.kony.com' target='_blank'>https://www.kony.com</a> & <a href='https://community.kony.com' target='_blank'>https://community.kony.com</a>/).",
+          "responsibilities": [
+            "Develop Pixel-perfect front-end with the responsiveness of Kony Web portals.",
+            "Integrate Google Analytics and Google tag manager in Web portals to analyse customer interactions.",
+            "Develop APIs in Drupal in PHP as language.",
+            "Fix bugs in both front-end as well as in back-end to increase customer experience."
+          ]
+        }
+      ]
+    }
+  ],
+  "Tech Stack 💻": [
+    {
+      "Languages": "JavaScript, PHP, Groovy, and Java",
+      "Front End": "HTML 5, CSS 3, SASS, SCSS",
+      "Client Scripting": "JQuery and React",
+      "Responsive Design": "Bootstrap, CSS Grid, and Flexbox",
+      "Server-SideRendering Scripting": "Redux and Next.js",
+      "Build Management Tools": "Maven, Gulp, and Webpack",
+      "CI Tools": "Jenkins",
+      "Logging Framework": "Log4J",
+      "Operating System": "Windows and Linux",
+      "Testing Framework": "TestNg, Rest Assured, Selenium",
+      "DevOps": "Amazon Web Services, Elastic Search, Shell Scripting, Vim, Nano"
+    }
+  ],
+  "Achievements ✌": [],
+  "Projects 🛠": [],
+  "Contact 🤙": [
+    {
+      "contactNo": "(+91) 799-592-4034",
+      "email": "pahujaaakash5@gmail.com"
+    }
+  ],
+  "Links 🤙": []
+}
