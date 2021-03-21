@@ -35,6 +35,7 @@ function handleResume() {
           showBack(() => handleResume());
           break;
         case "Tech Stack 💻":
+        case "Contact 🤙":
           isSecondStepOpened = true;
           renderSkills(resume[answer]);
           showBack(() => handleResume());

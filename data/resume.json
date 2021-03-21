@@ -5,7 +5,7 @@
       "school": "Maharishi Markandeshwar University",
       "duration": "Fall 2013 – May 2017",
       "info": [
-        "Bachelor of Technology in <b>Computer Science</b> as a major with 8.9 CGPA."
+        "Bachelor of Technology in Computer Science with 8.9 CGPA"
       ]
     }
   ],
@@ -66,28 +66,24 @@
       ]
     }
   ],
-  "Tech Stack 💻": [
-    {
-      "Languages": "JavaScript, PHP, Groovy, and Java",
-      "Front End": "HTML 5, CSS 3, SASS, SCSS",
-      "Client Scripting": "JQuery and React",
-      "Responsive Design": "Bootstrap, CSS Grid, and Flexbox",
-      "Server-SideRendering Scripting": "Redux and Next.js",
-      "Build Management Tools": "Maven, Gulp, and Webpack",
-      "CI Tools": "Jenkins",
-      "Logging Framework": "Log4J",
-      "Operating System": "Windows and Linux",
-      "Testing Framework": "TestNg, Rest Assured, Selenium",
-      "DevOps": "Amazon Web Services, Elastic Search, Shell Scripting, Vim, Nano"
-    }
-  ],
-  "Achievements ✌": [],
-  "Projects 🛠": [],
-  "Contact 🤙": [
-    {
-      "contactNo": "(+91) 799-592-4034",
-      "email": "pahujaaakash5@gmail.com"
-    }
-  ],
+  "Tech Stack 💻": {
+    "Languages": "JavaScript, PHP, Groovy, and Java",
+    "Front End": "HTML 5, CSS 3, SASS, SCSS",
+    "Client Scripting": "JQuery and React",
+    "Responsive Design": "Bootstrap, CSS Grid, and Flexbox",
+    "Server-SideRendering Scripting": "Redux and Next.js",
+    "Build Management Tools": "Maven, Gulp, and Webpack",
+    "CI Tools": "Jenkins",
+    "Logging Framework": "Log4J",
+    "Operating System": "Windows and Linux",
+    "Testing Framework": "TestNg, Rest Assured, Selenium",
+    "DevOps": "Amazon Web Services, Elastic Search, Shell Scripting, Vim, Nano"
+  },
+  "Achievements ✌": ["To Be Incorporated..."],
+  "Projects 🛠": ["To Be Incorporated..."],
+  "Contact 🤙": {
+    "contactNo": "(+91) 799-592-4034",
+    "email": "pahujaaakash5@gmail.com"
+  },
   "Links 🤙": []
 }
